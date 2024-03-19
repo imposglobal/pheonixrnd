@@ -1,0 +1,1097 @@
+body, html { overflow-x:hidden; }
+/*=======================================================Mobile===========================================*/
+@media only screen and (max-width: 480px) {
+/*===========================Navbar=======================    */
+.ul-padding {
+    padding-left: 0;
+}
+.nav-item {
+    padding: 0 20px !important;
+    text-align: center;
+}
+.navbar-collapse {
+    box-shadow: none;
+}
+.navbar .navbar-brand {
+    font-size: 1.6em;
+    display: flex;
+    justify-content: center;
+}
+.navbar-toggler {
+    margin-left: 42%;
+}
+/*----------Dropdown Menu-------------*/
+.menu-div {
+    margin: 0 0;
+}
+.menu-img-padding {
+    padding: 2em 0em;
+}
+.dropdown-menu{
+    background:#fff !important;
+}
+.menu-div:hover {
+    margin: 0;
+    background: #03045e;
+}
+ .all-btns
+ {
+   position:relative;
+   top:100px;
+   right:60px;
+ }
+ .more-web-btn
+ {
+   position:relative;
+   top:100px;
+   right:24%;
+ }
+ .more-web-btn {
+    background: #00b4d8;
+    color: #fff;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    width: max-content;
+    padding: 10px 10px 10px 10px;
+    border: none;
+    display: block;
+    float: left;
+}
+.more-web-btn:hover {
+    background: #0077b6;
+    color: #fff;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    width: max-content;
+    padding: 10px 10px 10px 10px;
+    border: none;
+    display: block;
+    float: left;
+}
+/*--------------------Link Blocks BG--------------------*/
+/*---------Agriculture---------*/
+.menu-agri-bg{
+    background-image: url(../Images/qualifying_sectors/agri-blue.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.menu-div:hover .menu-agri-bg{
+    background-image: url(../Images/qualifying_sectors/agri-wht.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*---------Architecture---------*/
+.menu-archi-bg{
+    background-image: url(../Images/qualifying_sectors/archi-blue.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.menu-div:hover .menu-archi-bg{
+    background-image: url(../Images/qualifying_sectors/archi-wht.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*---------Care Homes---------*/
+.menu-ch-bg{
+    background-image: url(../Images/qualifying_sectors/ch-blue.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.menu-div:hover .menu-ch-bg{
+    background-image: url(../Images/qualifying_sectors/ch-wht.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*---------IT & Software---------*/
+.menu-its-bg{
+    background-image: url(../Images/qualifying_sectors/its-blue.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.menu-div:hover .menu-its-bg{
+    background-image: url(../Images/qualifying_sectors/its-wht.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*---------Food & Drinks---------*/
+.menu-fd-bg{
+    background-image: url(../Images/qualifying_sectors/fd-blue.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.menu-div:hover .menu-fd-bg{
+    background-image: url(../Images/qualifying_sectors/fd-wht.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*---------Hospitality---------*/
+.menu-hospi-bg{
+    background-image: url(../Images/qualifying_sectors/hospi-blue.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.menu-div:hover .menu-hospi-bg{
+    background-image: url(../Images/qualifying_sectors/hospi-wht.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*---------Construction Industry---------*/
+.menu-constr-bg{
+    background-image: url(../Images/qualifying_sectors/constr-blue.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.menu-div:hover .menu-constr-bg{
+    background-image: url(../Images/qualifying_sectors/constr-wht.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*---------Manufacturing---------*/
+.menu-manuf-bg{
+    background-image: url(../Images/qualifying_sectors/manuf-blue.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.menu-div:hover .menu-manuf-bg{
+    background-image: url(../Images/qualifying_sectors/manuf-wht.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*---------Science & Medications---------*/
+.menu-sm-bg{
+    background-image: url(../Images/qualifying_sectors/sm-blue.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.menu-div:hover .menu-sm-bg{
+    background-image: url(../Images/qualifying_sectors/sm-wht.png);
+    background-size: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*===========================Navbar=======================    */
+/*=========================Footer=====================*/
+.footer-rght-align {
+    text-align: left;
+}
+.footer-p-blue {
+    color: #00b4d8;
+    line-height: 2;
+    font-size: 1.5em;
+    text-align: justify;
+}
+/*==================Margins==================*/
+.mt--130{
+    margin-top:-130px !important;
+}
+.mt-90 {
+    margin-top: 30px;
+}
+.mt--35 {
+    margin-top: 0;
+}
+.mt-mob-20{
+    margin-top:20px;
+}
+/*==================Margins==================*/
+#home {
+    padding-top: 12em;
+}
+    .home-1 {
+    background: #03045e;
+}
+.right-overlap-mg {
+    position: relative;
+    width: 100%;
+     bottom: 0; 
+    /*right: -15%;*/
+}
+.right-overlap-mg__item--top {
+    padding-top: 0px;
+     padding-right: 0; 
+     width: 100%; 
+    padding-left: 0px;
+    z-index: 2;
+    position: inherit;
+}
+.right-overlap-mg__item--bottom>img {
+    width: 294px;
+    height: 201px;
+    display: none;
+}
+.right-overlap-mg__item--top >img {
+    width: 100%;
+    height: auto;
+}
+.home-heading {
+    color: #fff;
+    font-weight: 900;
+    font-size: 3em;
+    line-height: 1.3;
+}
+.section-1-p {
+    color: #fff !important;
+    text-align: justify;
+    padding: 0 15px;
+    line-height: 2;
+    font-size: 1.5em;
+}
+.home-p-left {
+    color: #03045E;
+    line-height: 2;
+    font-size: 1.5em;
+    padding: 0 15px;
+    text-align: justify;
+}
+.read-more-btn, .read-more-btn:hover {
+    background: #00b4d8;
+    color: #fff;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-size: 1em;
+    width: max-content;
+    padding: 20px 100px 20px 20px;
+    border: none;
+    display: block;
+    float: left;
+}
+.right-div-padding {
+    padding: 0 15px 0 15px;
+}
+.image-stack__item--bottom >img {
+    width: 100%;
+    height: 65%;
+}
+.image-stack__item--top >img {
+    width: 170%;
+}
+.image-stack_item-top-1 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 70%;
+    margin-left: 45%;
+    display: block;
+    background: #0077b6;
+    width: 90%;
+    height: max-content;
+    padding: 20px 20px 30px 20px;
+}
+.image-stack_item-top-1 >h4 {
+    color: #fff;
+    font-weight: 900;
+    margin-top: 0;
+    font-size: 1.5em;
+}
+.image-stack_item-top-1 >p {
+    color: #fff;
+    font-size: 1.5em;
+    line-height: 1.5;
+    font-weight: 500;
+    /*text-align: justify;*/
+    text-align: center;
+    padding: 0 15px;
+}
+.home-p-right {
+    color: #03045E;
+    line-height: 1.5;
+    font-weight: 600;
+    font-size: 1.5em;
+    text-align: justify;
+    padding: 0 15px;
+    /*padding: 0;*/
+}
+.home-p-left {
+    color: #03045E;
+    /* font-weight: 700; */
+    line-height: 1.5;
+    font-size: 1.5em;
+    /*text-align:justify;*/
+    text-align: left;
+}
+.home-p-left >a {
+    color: #03045E;
+    font-weight: normal;
+    line-height: 1.5;
+    font-size: 1em;
+    text-align: left;
+    text-decoration: none;
+}
+.home-heading-4 {
+    color: #fff;
+    font-weight: 900;
+    font-size: 3em;
+}
+.home-left-p-4 {
+    color: #fff;
+    text-align: justify;
+    line-height: 1.5;
+    font-size: 1.5em;
+    word-spacing: 5px;
+    /* font-weight: 900; */
+}
+.image-stack_item-top-41 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 38%;
+    /* margin-left: -89%; */
+    display: block;
+    background: #b7b2b1;
+    width: 100%;
+    height: max-content;
+    padding: 20px 40px 30px 40px;
+}
+.image-stack_item-top-41 >p {
+    color: #fff;
+    font-size: 1.5em;
+    line-height: 1.5;
+    /* font-weight: 800; */
+    padding: 0 15px;
+    text-align: justify;
+}
+/*===================================Section 4===================*/
+.image-stack__item--top-4 >img {
+    width: 100%;
+}
+.image-stack_item-top-41 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 40%;
+    margin-left: 0;
+    display: block;
+    background: #b7b2b1;
+    width: 100%;
+    height: max-content;
+    padding: 20px 10px 20px 10px;
+}
+.image-stack_item-top-41 >p {
+    color: #fff;
+    font-size: 1.5em;
+    line-height: 1.5;
+    /* font-weight: 800; */
+    text-align: left;
+    padding: 0 15px;
+}
+/*================================Section 5=====================*/
+.div-39 {
+    width: 100% !important;
+    margin-bottom: 80px;
+}
+.home-heading-5 {
+    color: #fff;
+    font-weight: 900;
+    font-size: 3em;
+    text-align: left;
+}
+.heading-img {
+    float: left;
+    margin: 0 20px 0 0;
+}
+#tab-button li a {
+    display: block;
+    padding: 2em 0 5em 0;
+    background: #fff;
+    text-align: center;
+    color: #00B4D8;
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.tab-contents {
+    padding: 0em 0em 0em;
+}
+.blue-bg {
+    display: flex;
+    background: #03045e;
+    width: 100%;
+    margin-left: 0%;
+    padding: 0;
+}
+.tab-contents {
+    margin-top: -4em;
+}
+.credit_para {
+    color: #03045E;
+    line-height: 2;
+    font-weight: bolder;
+    font-size: 2.3em;
+    text-align: left;
+    font-weight: bolder;
+}
+.section-7-p {
+    color: #fff;
+    font-weight: 900;
+    font-size: 2.8em;
+    text-transform: uppercase;
+}
+.section-4-p {
+    color: #fff;
+    text-align: left;
+    line-height: 2;
+    font-size: 1.6em;
+    font-weight: 600;
+    text-shadow: 1px 0px 0px #fff;
+}
+/*----------------------------RND Page----------------------------*/
+.rnd-section-4 {
+    background: #b1b4b7;
+}
+.section-1-h {
+    color: #03045E;
+    font-size: 3em;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+.section-1-p-padding {
+    padding-left: inherit !important;
+}
+.sec-1-left-img {
+    width: 100%;
+    margin-top: 0em;
+}
+.img-width-50 {
+    width: 30%;
+    height: auto;
+    margin-left: 35% !important;
+}
+.rnd-p-right {
+    color: #03045E;
+    line-height: 1.5;
+    font-weight: 600;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 0 15px;
+    /*padding: 0;*/
+}
+#icon-position {
+    position: relative;
+    left: 0;
+    padding: 0em 5em;
+}
+#btn-getin {
+    position: relative;
+    left: 0;
+}
+.sec-1-para-padding {
+    padding: 2em 2em 2em 0;
+    text-align: center !important;
+}
+.mt-mob-20{
+    margin-top: 20px;
+}
+.mt--10 {
+    margin-top: 0em;
+}
+.mr-mob--12{
+        right: -8%;
+}
+.section-7 {
+    background: url(../Images/Homepage/right-rectangle.png);
+}
+.rnd-section-3 {
+    background: #03045e;
+}
+.ml-mob-0{
+ margin-left:0;   
+}
+/*=============================About Page===========================*/
+.about-1 {
+    background: #03045e;
+}
+.contact-image-1 {
+    margin: 5% 0% 0% 0%;
+    width: 100%;
+}
+.about-heading-2 {
+    color: #03045E;
+    font-weight: 900;
+    font-size: 2em;
+    text-align: center;
+}
+.mlp-35{
+    margin-left:35% !important;
+}
+.padding-r{
+    padding:0;
+}
+.padding-l{
+    padding-left:0;
+}
+.padding-lr{
+    padding:0;
+}
+.about-3 {
+    background: #fff;
+    height:max-content;
+}
+.about-4 {
+    background: #fff;
+}
+.about-border-block {
+    height: max-content;
+    border: none;
+}
+.contact-heading-2 {
+    color: #03045E;
+    font-weight: 900;
+    font-size: 3em;
+    text-align: left;
+   
+}
+.contact-heading-1 {
+    color: #fff;
+    font-weight: 900;
+    font-size: 3em;
+    text-align: center;
+    margin-left:12px !important;
+}
+/*======================Contact=====================*/
+.contact-1 {
+    background: #03045e;
+}
+/*======================================Qualifying Sectors Pages=====================*/
+/*-------------------Construction Industry-----------------*/
+.snm-stack__item--top {
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    padding-top: 15%;
+    z-index: 1;
+    background-color: #e4f2ff;
+    width: 300px;
+    height: 110%;
+    margin-top: 0;
+    margin-left: 0;
+}
+.snm-stack_item-top-1 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 10%;
+    margin-left: -20%;
+    display: block;
+    height: max-content;
+}
+.snm-stack_item-top-1 > img {
+    width: 310px;
+}
+.snm-stack__item--top_1 {
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    padding-top: 15%;
+    z-index: 1;
+    background-color: #e4f2ff;
+    width: 300px;
+    height: 110%;
+    margin-top: 0;
+    margin-left: 0;
+}
+.snm-stack_item-top-1_1 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 20%;
+    margin-left: -20%;
+    display: block;
+    height: max-content;
+}
+.snm-stack_item-top-1_1 > img {
+    width: 310px;
+}
+.mt--50 {
+    margin-top: 70px;
+}
+.mt--70{
+    margin-top:-70px;
+}
+.section-7-div-padding {
+    padding: 0 0;
+}
+.mt-i-50{
+    margin-top:0 !important;
+}
+.copyright > p {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1em;
+    text-align: center;
+    line-height: 0;
+}
+.copyright > .upper {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    text-align: center;
+    line-height: 0;
+}
+.snm-stack__item--top_2 {
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    padding-top: 15%;
+    z-index: 1;
+    background-color: #e4f2ff;
+    width: 300px;
+    height: 110%;
+    margin-top: 0;
+    margin-left: 0;
+}
+.snm-stack_item-top-1_2 > img {
+    width: 310px;
+}
+.snm-stack_item-top-1_2 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 20%;
+    margin-left: -20%;
+    display: block;
+    height: max-content;
+}
+.agri-stack__item--top_1 {
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    padding-top: 15%;
+    z-index: 1;
+    background-color: #e4f2ff;
+    width: 300px;
+    height: 110%;
+    margin-top: 0;
+    margin-left: 0;
+}
+.agri-stack__item--top_2 {
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    padding-top: 15%;
+    z-index: 1;
+    background-color: #e4f2ff;
+    width: 300px;
+    height: 110%;
+    margin-top: 0;
+    margin-left: 0;
+}
+.right-list >li{
+    list-style: none;
+    color: #00b4d8;
+    line-height: 1.5;
+    font-size: 1.3em;
+    text-align: left;
+    margin-bottom: 30px;
+    display:flex;
+}
+.right-list >li >p{
+    list-style: none;
+    color: #00b4d8;
+    line-height: 1.5;
+    font-size: 1.3em;
+    text-align: left;
+    margin-bottom: 0px;
+}
+.li-span-mob{
+    font-size:1em;
+    padding:0;
+}
+/*=============================Useful Links Pages==================*/
+.process-1 {
+    background: #03045e;
+}
+.process-stack__item--bottom > img {
+   display: none;
+}
+.process-stack__item--top {
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    padding-top: 15%;
+    z-index: 1;
+    background-color: #e4f2ff;
+    width: 300px;
+    height: 110%;
+    margin-top: -10%;
+}
+.process-stack_item-top-1 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 0;
+    margin-left: -20%;
+    display: block;
+    height: max-content;
+}
+.process-stack_item-top-1 >img{
+    width:310px;
+}
+/*----------Check Eligibility-----------------*/
+.ce-section-3 {
+    background: #e4f2ff;
+}
+.question-list > li {
+    list-style: none;
+    color: #00b4d8;
+    line-height: 1.5;
+    font-size: 1.3em;
+    text-align: left;
+    margin-bottom: 30px;
+    display:flex;
+}
+.question-list > li > p {
+    list-style: none;
+    color: #00b4d8;
+    line-height: 1.5;
+    font-size: 1.3em;
+    text-align: left;
+    margin-bottom: 30px;
+}
+.question-list > li > img {
+    height: 40px;
+    width: auto;
+    padding: 0;
+}
+/*----------------R&D FAQ------------*/
+.rnd-faq-4 {
+    background: #e4f2ff;
+}
+/*Food Drink mobile view */
+/*#food-firsth1*/
+/*{*/
+/*    margin-left:12px;*/
+/*}*/
+/*#foodstck*/
+/*{*/
+/*   margin-top:40px !important;*/
+/*}*/
+/*#pressure-heading*/
+/*{*/
+/*    margin-top:100px;*/
+/*}*/
+/*#fd-stck3*/
+/*{*/
+/*    margin-top:50px;*/
+/*}*/
+/*#do-i-sec*/
+/*{*/
+/*    margin-top:40px !important;*/
+/*}*/
+}
+/*=======================================================Mobile===========================================*/
+/*------------------iPad----------------------*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+.navbar-collapse.collapse {
+    display: none !important;
+    height: auto!important;
+    padding-bottom: 0;
+    overflow: visible!important;
+}
+    .collapsing {
+        transition: none;
+}
+/*---------------Footer-----------------*/
+.copyright > p {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1em;
+}
+label {
+    display: block;
+    position: relative;
+    margin: 15px 0px;
+}
+/*---------------------------------------Section 1-------------------------*/
+.home-1 {
+    background: #03045e;
+}
+.home-heading {
+    color: #fff;
+    font-weight: 900;
+    font-size: 3em;
+    line-height: 1.3;
+}
+.right-overlap-mg__item--bottom > img {
+    width: 430px;
+    height: 268px !important;
+}
+.right-overlap-mg__item--top > img {
+    width: 400px;
+    height: 268px;
+}
+.right-div-padding {
+    padding: 0 0 0 0;
+}
+.image-stack__item--top > img {
+    width: 620px;
+}
+.image-stack__item--bottom > img {
+    width: 320px;
+    height: 90%;
+}
+.image-stack_item-top-1 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 67%;
+    margin-left: 53%;
+    display: block;
+    background: #0077b6;
+    width: 350px;
+    height: max-content;
+    padding: 20px 40px 30px 40px;
+}
+.image-stack_item-top-1 > h4 {
+    color: #fff;
+    font-weight: 900;
+    margin-top: 0;
+    font-size: 2.1em;
+}
+.div-75{
+    width:75%;
+}
+.home-left-p-4 {
+    color: #fff;
+    text-align: justify;
+    /*line-height: 1.8;*/
+    font-size: 1.5em;
+    word-spacing: 0px;
+    font-weight: 900;
+}
+.image-stack__item--top-4 > img {
+    width: 460px;
+}
+.image-stack_item-top-41 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 80%;
+    margin-left: -105%;
+    display: block;
+    background: #b7b2b1;
+    width: 500px;
+    height: max-content;
+    padding: 20px 40px 30px 40px;
+}
+.image-stack_item-top-41 > p {
+    color: #fff;
+    font-size: 1.2em;
+    line-height: 2;
+    font-weight: 800;
+    text-align: justify;
+}
+.div-39 {
+    width: 100%;
+    margin-bottom: 80px;
+}
+.heading-img {
+    float: left;
+    margin: 0 0 0 350px;
+}
+/*-------------------RND Page---------------------*/
+.section-1-h {
+    color: #03045E;
+    font-size: 2.5em;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+.section-1-p-padding {
+    padding-left: inherit;
+}
+.sec-1-para-padding {
+    padding: 2em 0em 0em 0;
+    text-align: left !important;
+}
+.section-2-h {
+    color: #fff;
+    font-size: 2.5em;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+.white-btn {
+    background: #fff !important;
+    color: #03045e !important;
+    text-transform: uppercase;
+    font-size: 1.7em !important;
+    font-weight: 900 !important;
+    padding: 1em 1em !important;
+    border-radius: 5px !important;
+    float: right;
+}
+.rnd-2 {
+    background: linear-gradient(to bottom, #b1b4b7 45%,#b1b4b7 45%,#fff 0%,#fff 100%);
+}
+.mt-i-50{
+    margin-top:0 !important;
+}
+.section-7-div-padding {
+    padding: 0 0;
+}
+/*========================================Qualifying Sectors Page==================*/
+/*--------------Agriculture-------------------*/
+.snm-stack__item--top {
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    padding-top: 15%;
+    z-index: 1;
+    background-color: #e4f2ff;
+    width: 300px;
+    height: 125%;
+    margin-top: -25%;
+    margin-left: 55%;
+}
+.snm-stack_item-top-1 > img {
+    width: 255px;
+}
+.agri-stack__item--top_1 {
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    padding-top: 15%;
+    z-index: 1;
+    background-color: #e4f2ff;
+    width: 300px;
+    height: 110%;
+    margin-top: 0;
+    margin-left: -50%;
+}
+.snm-stack_item-top-1_1 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 20%;
+    margin-left: -60%;
+    display: block;
+    height: max-content;
+}
+.snm-stack_item-top-1_1 > img {
+    width: 300px;
+}
+.contact-heading-2 {
+    color: #03045E;
+    font-weight: 900;
+    font-size: 2em;
+    text-align: left;
+}
+.right-list > li, .right-list > li > p {
+    list-style: none;
+    color: #00b4d8;
+    line-height: 1.5;
+    font-size: 1.2em;
+    text-align: left;
+    margin-bottom: 30px;
+}
+.snm-heading {
+    color: #00b4d8;
+    font-weight: 900;
+    font-size: 2em;
+    text-align: left;
+}
+.agri-stack__item--top_2 {
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    padding-top: 15%;
+    z-index: 1;
+    background-color: #e4f2ff;
+    width: 300px;
+    height: 120%;
+    margin-top: 0;
+    margin-left: 35%;
+}
+.snm-stack_item-top-1_2 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 25%;
+    margin-left: -20%;
+    display: block;
+    height: max-content;
+}
+.snm-stack_item-top-1_2 > img {
+    width: 255px;
+}
+.snm-stack__item--top_1 {
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    padding-top: 15%;
+    z-index: 1;
+    background-color: #e4f2ff;
+    width: 300px;
+    height: 110%;
+    margin-top: 0;
+    margin-left: -50%;
+}
+.snm-stack__item--top_2 {
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    padding-top: 15%;
+    z-index: 1;
+    background-color: #e4f2ff;
+    width: 300px;
+    height: 120%;
+    margin-top: 0;
+    margin-left: 35%;
+}
+/*========================Useful Links Pages=================*/
+.process-1 {
+    background: linear-gradient(to right, #03045e 0%,#03045e 50%,#fff 50%,#fff 100%);
+}
+.process-stack__item--top {
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    padding-top: 15%;
+    z-index: 1;
+    background-color: #e4f2ff;
+    width: 350px;
+    height: 110%;
+    margin-top: 0;
+}
+.process-stack_item-top-1 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 20%;
+    margin-left: 0;
+    display: block;
+    height: max-content;
+}
+.process-stack_item-top-1 >img{
+    width:255px;
+}
+.process-stack__item--bottom {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    margin-top: -110%;
+    margin-left: 30%;
+}
+.process-stack__item--bottom > img {
+    width: 230px;
+    height: auto;
+}
+.rnd-section-3{
+    background: url(../Images/RND/rnd_left_bg.png),#03045e;
+    background-repeat: repeat, repeat;
+    background-size: auto, auto;
+background-repeat: no-repeat, repeat;
+background-size: 50% 100%, 100%;
+}
+/*========================Qualifying Sectors=================*/
+#qualify-heading {
+    color: #000863;
+    text-align: left !important;
+    margin-top: 2em;
+}
+}

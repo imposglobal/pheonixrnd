@@ -1,0 +1,874 @@
+body, html { overflow-x:hidden; }
+/*=======================================================Mobile===========================================*/
+@media only screen and (max-width: 480px) {
+/*===========================Navbar=======================    */
+.ul-padding {
+    padding-left: 0;
+}
+.nav-item {
+    padding: 0 20px !important;
+    text-align: center;
+}
+.navbar-collapse {
+    box-shadow: none;
+}
+.navbar .navbar-brand {
+    font-size: 1.6em;
+    display: flex;
+    justify-content: center;
+}
+.navbar-toggler {
+    margin-left: 42%;
+}
+/*===========================Navbar=======================    */
+#home {
+    padding-top: 12em;
+}
+    .home-1 {
+    background: #03045e;
+}
+.right-overlap-mg {
+    position: relative;
+    width: 100%;
+     bottom: 0; 
+    /*right: -15%;*/
+}
+.right-overlap-mg__item--top {
+    padding-top: 0px;
+     padding-right: 0; 
+     width: 100%; 
+    padding-left: 0px;
+    z-index: 2;
+    position: inherit;
+}
+.right-overlap-mg__item--bottom>img {
+    width: 294px;
+    height: 201px;
+    display: none;
+}
+.right-overlap-mg__item--top >img {
+    width: 100%;
+    height: auto;
+}
+.home-heading {
+    color: #fff;
+    font-weight: 900;
+    font-size: 3em;
+    line-height: 1.3;
+    position:relative;
+    top:15px;
+    left:10px;
+}
+
+.home-left-headig-1
+{
+   position:relative;
+   top:20px;
+   left:20px;
+}
+
+.home-left-headig-2
+{
+   position:relative;
+   top:12px;
+   left:14px;
+}
+.star-mg
+{
+   position:relative;
+   top:10px;
+   left:20px;
+    
+}
+.read-more-btn
+{
+margin-left:60px;
+}
+
+.section-1-p {
+    color: #fff !important;
+    text-align: justify;
+    padding: 0 15px;
+    line-height: 2;
+    font-size: 1.5em;
+}
+.home-p-left {
+    color: #03045E;
+    line-height: 2;
+    font-size: 1.5em;
+    padding: 0 15px;
+    text-align: justify;
+    margin-top:30px;
+}
+#home-first-section-p
+{
+    margin-top:30px;
+}
+ #second-section-p
+ {
+  margin-top:20px !important;   
+ }
+ .all-btns
+ {
+   position:relative;
+   top:100px;
+   right:60px;
+ }
+ .more-web-btn
+ {
+   position:relative;
+   top:100px;
+   right:24%;
+ }
+ .more-web-btn {
+    background: #00b4d8;
+    color: #fff;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    width: max-content;
+    padding: 10px 10px 10px 10px;
+    border: none;
+    display: block;
+    float: left;
+}
+.more-web-btn:hover {
+    background: #0077b6;
+    color: #fff;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    width: max-content;
+    padding: 10px 10px 10px 10px;
+    border: none;
+    display: block;
+    float: left;
+}
+ 
+ .credit_para
+ {
+     font-size:1.7rem;
+     font-weight:bolder;
+ }
+ 
+ .section-4-p
+ {
+     margin-top:40px;
+ }
+ .section-h-6
+ {
+     margin-top:20px;
+ }
+ 
+.read-more-btn, .read-more-btn:hover {
+    background: #00b4d8;
+    color: #fff;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-size: 1em;
+    width: max-content;
+    padding: 20px 100px 20px 20px;
+    border: none;
+    display: block;
+    float: left;
+}
+.right-div-padding {
+    padding: 0 15px 0 15px;
+}
+.image-stack__item--bottom >img {
+    width: 100%;
+    height: 65%;
+}
+.image-stack__item--top >img {
+    width: 170%;
+}
+.image-stack_item-top-1 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 70%;
+    margin-left: 45%;
+    display: block;
+    background: #0077b6;
+    width: 90%;
+    height: max-content;
+    padding: 20px 20px 30px 20px;
+}
+.image-stack_item-top-1 >h4 {
+    color: #fff;
+    font-weight: 900;
+    margin-top: 0;
+    font-size: 1.5em;
+}
+.image-stack_item-top-1 >p {
+    color: #fff;
+    font-size: 1.5em;
+    line-height: 1.5;
+    font-weight: 500;
+    text-align: justify;
+    padding: 0 15px;
+}
+.home-p-right {
+    color: #03045E;
+    line-height: 1.5;
+    font-weight: 600;
+    font-size: 1.5em;
+    text-align: justify;
+    padding: 0 15px;
+    /*padding: 0;*/
+}
+.home-p-left {
+    color: #03045E;
+    /* font-weight: 700; */
+    line-height: 1.5;
+    font-size: 1.5em;
+    text-align:justify;
+}
+.home-heading-4 {
+    color: #fff;
+    font-weight: 900;
+    font-size: 3em;
+}
+.home-left-p-4 {
+    color: #fff;
+    text-align: justify;
+    line-height: 1.5;
+    font-size: 1.5em;
+    word-spacing: 5px;
+    /* font-weight: 900; */
+}
+.image-stack_item-top-41 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 38%;
+    /* margin-left: -89%; */
+    display: block;
+    background: #b7b2b1;
+    width: 100%;
+    height: max-content;
+    padding: 20px 40px 30px 40px;
+}
+.image-stack_item-top-41 >p {
+    color: #fff;
+    font-size: 1.5em;
+    line-height: 1.5;
+    /* font-weight: 800; */
+    padding: 0 15px;
+    text-align: justify;
+}
+#government-incheading
+{
+    font-size:2rem;
+    text-align:center;
+}
+/*===================================Section 4===================*/
+.image-stack__item--top-4 >img {
+    width: 100%;
+}
+.image-stack_item-top-41 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 40%;
+    margin-left: 0;
+    display: block;
+    background: #b7b2b1;
+    width: 100%;
+    height: max-content;
+    padding: 20px 10px 20px 10px;
+}
+.image-stack_item-top-41 >p {
+    color: #fff;
+    font-size: 1.5em;
+    line-height: 1.5;
+    /* font-weight: 800; */
+    text-align: justify;
+    padding: 0 15px;
+}
+/*================================Section 5=====================*/
+.div-39 {
+    width: 100% !important;
+    margin-bottom: 80px;
+}
+.home-heading-5 {
+    color: #fff;
+    font-weight: 900;
+    font-size: 3em;
+    text-align: left;
+}
+.heading-img {
+    float: left;
+    margin: 0 20px 0 0;
+}
+#tab-button li a {
+    display: block;
+    padding: 2em 0 5em 0;
+    background: #fff;
+    text-align: center;
+    color: #00B4D8;
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.tab-contents {
+    padding: 0em 0em 0em;
+}
+.blue-bg {
+    display: flex;
+    background: #03045e;
+    width: 100%;
+    margin-left: 0%;
+    padding: 0;
+}
+.tab-contents {
+    margin-top: -4em;
+}
+/*----------------------------RND Page----------------------------*/
+.section-1-h {
+    color: #03045E;
+    font-size: 3em;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+.section-1-p-padding {
+    padding-left: inherit !important;
+}
+.sec-1-left-img {
+    width: 100%;
+    margin-top: 0em;
+}
+.img-width-50 {
+    width: 30%;
+    height: auto;
+    margin-left: 35%;
+}
+.sec-1-para-padding {
+    padding: 2em 2em 2em 0;
+    text-align: center !important;
+}
+.mt-mob-20{
+    margin-top: 20px;
+}
+.mt--10 {
+    margin-top: 0em;
+}
+.mt--35 {
+    margin-top: 0;
+}
+.mt--50 {
+    margin-top: -20px;
+}
+.mr-mob--12{
+        right: -8%;
+}
+.section-7 {
+    background: url(../Images/Homepage/right-rectangle.png);
+}
+.rnd-section-3 {
+    background: url(../Images/RND/blue-rectangle.png);
+}
+.ml-mob-0{
+ margin-left:0;   
+}
+/*======================================Qualifying Sectors Pages=====================*/
+/*-------------------Construction Industry-----------------*/
+.snm-stack__item--top {
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    padding-top: 15%;
+    z-index: 1;
+    background-color: #e4f2ff;
+    width: 300px;
+    height: 110%;
+    margin-top: -40%;
+    margin-left: 55%;
+}
+.snm-stack_item-top-1 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 10%;
+    margin-left: -20%;
+    display: block;
+    height: max-content;
+}
+.snm-stack_item-top-1 > img {
+    width: 300px;
+}
+/*footer Mobile Design */
+#office-hour
+{
+    margin-top:30px !important;
+}
+.copyright > p {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1em;
+    text-align: center;
+    line-height: 0;
+}
+.copyright > .upper {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    text-align: center;
+    line-height: 0;
+}
+}
+/*=======================================================Mobile===========================================*/
+/*------------------iPad----------------------*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+.navbar-collapse.collapse {
+    display: none !important;
+    height: auto!important;
+    padding-bottom: 0;
+    overflow: visible!important;
+}
+    .collapsing {
+        transition: none;
+}
+/*---------------------------------------Section 1-------------------------*/
+.home-1 {
+    background: #03045e;
+   
+}
+.home-heading {
+    color: #fff;
+    font-weight: 900;
+    font-size: 3em;
+    line-height: 1.3;
+}
+.right-overlap-mg__item--bottom > img {
+    width: 430px;
+    height: 268px !important;
+}
+.right-overlap-mg__item--top > img {
+    width: 400px;
+    height: 268px;
+}
+.right-div-padding {
+    padding: 0 0 0 0;
+}
+.image-stack__item--top > img {
+    width: 620px;
+}
+.image-stack__item--bottom > img {
+    width: 320px;
+    height: 90%;
+}
+.image-stack_item-top-1 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 67%;
+    margin-left: 53%;
+    display: block;
+    background: #0077b6;
+    width: 350px;
+    height: max-content;
+    padding: 20px 40px 30px 40px;
+}
+.image-stack_item-top-1 > h4 {
+    color: #fff;
+    font-weight: 900;
+    margin-top: 0;
+    font-size: 2.1em;
+}
+.div-75{
+    width:75%;
+}
+.home-left-p-4 {
+    color: #fff;
+    text-align: justify;
+    /*line-height: 1.8;*/
+    font-size: 1.5em;
+    word-spacing: 0px;
+    font-weight: 900;
+}
+.image-stack__item--top-4 > img {
+    width: 460px;
+}
+.image-stack_item-top-41 {
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 1;
+    margin-top: 80%;
+    margin-left: -105%;
+    display: block;
+    background: #b7b2b1;
+    width: 500px;
+    height: max-content;
+    padding: 20px 40px 30px 40px;
+}
+.image-stack_item-top-41 > p {
+    color: #fff;
+    font-size: 1.2em;
+    line-height: 2;
+    font-weight: 800;
+    text-align: justify;
+}
+.div-39 {
+    width: 100%;
+    margin-bottom: 80px;
+}
+.heading-img {
+    float: left;
+    margin: 0 0 0 350px;
+}
+/*-------------------RND Page---------------------*/
+.section-1-h {
+    color: #03045E;
+    font-size: 2.5em;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+.section-1-p-padding {
+    padding-left: inherit;
+}
+.sec-1-para-padding {
+    padding: 2em 0em 0em 0;
+    text-align: left !important;
+}
+.section-2-h {
+    color: #fff;
+    font-size: 2.5em;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+.white-btn {
+    background: #fff !important;
+    color: #03045e !important;
+    text-transform: uppercase;
+    font-size: 1.7em !important;
+    font-weight: 900 !important;
+    padding: 1em 1em !important;
+    border-radius: 5px !important;
+    float: right;
+}
+.rnd-2 {
+    background: linear-gradient(to bottom, #b1b4b7 45%,#b1b4b7 45%,#fff 0%,#fff 100%);
+}
+.mt-i-50{
+    margin-top:0 !important;
+}
+.section-7-div-padding {
+    padding: 0 0;
+}
+}
+
+/* Mobile View For science and medication */
+@media screen and (max-width:480px)
+{
+    .snm-stack__item--top 
+    {
+        margin-top:100px;
+        width:500px !important;
+        height:550px !important;
+        
+    }
+   
+     #science-stackimg1
+     {
+         margin-top:40px !important;
+     }
+    
+    .snm-stack_item-top-1 img
+    {
+     width:300px !important;
+     height:450px !importnat;
+     position:absolute;
+     top:80px !important;
+     
+    }
+    .snm-stack__item--top_1 
+    {
+        width:100% !important;
+    }
+    
+    .snm-stack_item-top-1_1 img
+    {
+        position:relative;
+        top:-80px !important;
+    }
+    .right-list > li > img {
+    height: 40px !important;
+    width: auto !important;
+    padding: 0 ;
+}
+
+
+/*.right-list > li > p {*/
+/*    list-style: none !important;*/
+/*    color: #00b4d8 !important;*/
+/*    line-height: 1.5 !important;*/
+/*    font-size: 1.7rem !important;*/
+/*    margin-bottom: 30px  !important;*/
+/*    width:90% !important;*/
+/*}*/
+.right-list >li{
+    list-style: none;
+    color: #00b4d8;
+    line-height: 1.5;
+    font-size: 1.3em;
+    text-align: left;
+    margin-bottom: 30px;
+    display:flex;
+}
+.right-list >li >p{
+    list-style: none;
+    color: #00b4d8;
+    line-height: 1.5;
+    font-size: 1.3em;
+    text-align: left;
+    margin-bottom: 0px;
+}
+    
+    
+    .snm-stack_item-top-1_1
+    {
+        margin-top:140px;
+        width:400px;
+        height:300px;
+
+    }
+    
+    
+    .image-stack__item img
+    {
+        width:400px;
+        height:500px;
+        position:relative;
+        top:70px;
+       
+    }
+    
+    .snm-stack__item--top_2
+    {
+     width:400px;
+     height:500px;
+     margin-top:30px;
+    }
+    
+    .snm-stack_item-top-1_2 img
+    {
+      height:400px !important;
+    position:absolute !important;
+    top:130px !important;
+    }
+
+}
+
+
+/*tablet view for science and medication */
+@media screen and (max-width:768px)
+{
+  .snm-stack__item--top
+  {
+      height:600px;
+  }
+  .snm-stack_item-top-1 img
+  {
+     width:400px !important; 
+     
+  }
+  #rdh1
+  {
+    margin-top:50px;
+  }
+  .snm-stack__item--top_1 
+  {
+      margin-top:4px;
+      height:570px !important;
+      width:400px !important;
+      
+  }
+  
+  .snm-stack_item-top-1_1 img
+  {
+    width:300px !important;
+    height:500px !important;
+  }
+.snm-stack__item--top_2
+{
+    height:500px !important;
+}
+ #qualifies-top
+    {
+        
+        width:100%;
+        
+    }
+    
+/*    .right-list > li > p {*/
+/*   font-size:1.3rem !important;*/
+/*   margin-left:31px !important;*/
+/*}*/
+
+.right-list > li > img
+{
+    width:40px !important;
+    position:relative !important;
+    /*top:30px !important;*/
+}
+
+ 
+}
+
+/*mobile view of manufacturing */
+
+@media screen and (max-width:480px)
+{
+    .snm-stack_item-top-1  img
+ {
+     width:300px !important;
+
+ }
+/*.contact-heading-2*/
+/* {*/
+/*     margin-left:18px !important;*/
+/* }*/
+ #manufacturing-para1
+ {
+    margin-top:22px !important;
+ }
+ 
+ /*.snm-heading*/
+ /*{*/
+ /*    margin-left:15px !important;*/
+ /*}*/
+ .snm-stack__item--top
+ {
+    width:300px !important;
+    height:400px !important;
+  
+ }
+.snm-stack__item--top_1
+{
+   width:700px !important;
+   position:relative !important;
+   height:550px !important;
+   left:100px;
+}
+
+.snm-stack_item-top-1_1 img
+{
+    width:300px !important;
+   position:relative;
+   height:380px !important;
+   left:80px;
+}
+.snm-stack_item-top-1_2 img
+{
+    width:300px !important;
+    
+}
+#project-container
+{
+ margin-top:-90px !important;
+}
+#eligible-top
+{
+position:relative;
+top:70px;
+}
+}
+/* Tablet view of manufacturing */
+@media screen and (max-width:768px)
+{
+#eligible-top
+{
+ margin-top:0px !important;
+}
+
+ .snm-stack__item--top_1 
+ {
+    width:330px;
+ }
+
+ .snm-stack_item-top-1_1 img
+ {
+     width:330px !important;
+     height:600px;
+ }
+ .agri-stack__item--top_1
+ {
+     width:350px;
+ }
+ .snm-stack_item-top-1_2 img
+ {
+    height:440px !important;
+    width:400px !important;
+ }
+}
+
+
+
+/*IT software Media queries For mobile view  */
+@media screen and (max-width:480px)
+{
+#it-fisrtp
+{
+margin-top:15px !important;
+}
+
+.snm-stack__item--top
+{
+    
+    margin-top:10px  !important;
+}
+
+ .snm-stack_item-top-1 img
+ {
+     height:400px !important;
+ }
+ .snm-stack__item--top_1
+ {
+   width:400px !important;
+   height:400px !important;
+  
+   margin-top:-25px !important;
+  
+ }
+
+ 
+ .agri-stack__item--top_1
+ {
+     margin-top:140px !important;
+     height:400px !important;
+     width:450px !important;
+     
+ }
+ .snm-stack_item-top-1_1 img
+ {
+     
+ }
+ #it-last
+ {
+    
+    margin-top:120px !important;
+ }
+ #expenditure-head
+ {
+   margin-top:70px;  
+ }
+ #it-qualify
+ {
+    margin-top:-170px !important;
+ }
+}
+
+/*IT and software tablet view */
+@media screen and (max-width:768px)
+{
+    .agri-stack__item--top_1
+{
+    width:400px !important;
+}
+.snm-stack_item-top-1_1 img
+{
+   
+}
+}
+

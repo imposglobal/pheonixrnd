@@ -1,0 +1,245 @@
+#headers
+{
+    
+    width:100%;
+    height: 100vh;
+    
+    background-image: url(../Images/qualifying_sectors/qualify_bg.png);
+    background-size: cover;
+    background-position: center;    
+
+}
+
+.qualify-sectors-bg{
+    background-image: url(../Images/qualifying_sectors/qualify_bg.png);
+    background-size: cover;
+    background-position: center;
+}
+.main-block{
+    display: block;
+    box-shadow: -2px 0px 2px 2px #dcdcdc;
+    padding: 0;
+}
+.link-block{
+    background: #fff;
+    padding: 7em 0;
+    border-bottom: 1px solid #dcdcdc;
+    border-right: 1px solid #dcdcdc;
+}
+.link-block:hover{
+    background: #03045e;
+}
+/*.link-block:hover .agri-bg{*/
+/*    background-image: url(../Images/qualifying_sectors/agri-wht.png);*/
+/*    background-size: contain;*/
+/*    background-position: center;*/
+/*    background-repeat: no-repeat;*/
+/*}*/
+.img-padding{
+    padding: 4em 10em;
+}
+/*--------------------Link Blocks BG--------------------*/
+/*---------Agriculture---------*/
+.agri-bg{
+    background-image: url(../Images/qualifying_sectors/agri-blue.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.link-block:hover .agri-bg{
+    background-image: url(../Images/qualifying_sectors/agri-wht.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*---------Architecture---------*/
+.archi-bg{
+    background-image: url(../Images/qualifying_sectors/archi-blue.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.link-block:hover .archi-bg{
+    background-image: url(../Images/qualifying_sectors/archi-wht.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*---------Care Homes---------*/
+.ch-bg{
+    background-image: url(../Images/qualifying_sectors/ch-blue.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.link-block:hover .ch-bg{
+    background-image: url(../Images/qualifying_sectors/ch-wht.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*---------IT & Software---------*/
+.its-bg{
+    background-image: url(../Images/qualifying_sectors/its-blue.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.link-block:hover .its-bg{
+    background-image: url(../Images/qualifying_sectors/its-wht.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*---------Food & Drinks---------*/
+.fd-bg{
+    background-image: url(../Images/qualifying_sectors/fd-blue.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.link-block:hover .fd-bg{
+    background-image: url(../Images/qualifying_sectors/fd-wht.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*---------Hospitality---------*/
+.hospi-bg{
+    background-image: url(../Images/qualifying_sectors/hospi-blue.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.link-block:hover .hospi-bg{
+    background-image: url(../Images/qualifying_sectors/hospi-wht.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*---------Construction Industry---------*/
+.constr-bg{
+    background-image: url(../Images/qualifying_sectors/constr-blue.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.link-block:hover .constr-bg{
+    background-image: url(../Images/qualifying_sectors/constr-wht.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*---------Manufacturing---------*/
+.manuf-bg{
+    background-image: url(../Images/qualifying_sectors/manuf-blue.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.link-block:hover .manuf-bg{
+    background-image: url(../Images/qualifying_sectors/manuf-wht.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/*---------Science & Medications---------*/
+.sm-bg{
+    background-image: url(../Images/qualifying_sectors/sm-blue.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.link-block:hover .sm-bg{
+    background-image: url(../Images/qualifying_sectors/sm-wht.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#qualify-heading
+{
+    color:#000863;
+    text-align: left !important;
+}
+
+.qualify-color
+{
+    color: #00b4d8;
+    text-decoration: none;
+}
+.actives
+{
+    background:#000863;
+    height:auto;
+}
+.box
+{
+    width:50%;
+    height:auto;
+    padding:10px;
+    background-color: #ffff;
+    margin: auto;
+}
+
+@media screen and (max-width:576px)
+{
+    .box
+    {
+        width:100%;
+        height:auto;
+    }
+    footer
+    {
+     
+    }
+    
+    #headers
+    {
+        width:100%;
+        height:auto;
+    }
+    #qualify-heading
+    {
+
+        margin-top:50px;
+    }
+    
+}
+@media screen and (max-width:768px)
+{
+  .box
+  {
+      width:80%;
+      height:auto;
+      padding:0px;
+  }
+  
+}
+@media screen and (min-width:1024px)
+{
+    .box
+    {
+        width:800px;
+        height:auto;
+        
+        
+    }
+}
+.items
+{
+    transition: 0.5s;
+    height: auto;
+    padding:10px;
+}
+
+.items:hover
+{
+    background: #000863;
+    height: 90%;
+
+}
+
+
+
+
