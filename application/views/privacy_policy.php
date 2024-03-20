@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>Click R&D: Privacy Policy</title>
+        <title>Phoenix R&D: Privacy Policy</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
         <!-- Optional theme -->
@@ -76,11 +76,11 @@
 
                <div class="container mt-5">
                 <h1 >Website Privacy Notice and Cookie Policy</h1>
-                <p class="mt-4">Welcome to Click R&D ’s privacy notice. Click R&D  respects your privacy and is committed to protecting your personal data. This privacy notice will inform you how we look after your personal data when you visit our website (regardless of where you visit it from). 
+                <p class="mt-4">Welcome to Phoenix R&D ’s privacy notice. Phoenix R&D  respects your privacy and is committed to protecting your personal data. This privacy notice will inform you how we look after your personal data when you visit our website (regardless of where you visit it from). 
                 It will also tell you about your privacy rights and how the law protects you.</p>
                 <h1 class="mt-4 " >1.Important information and who we are</h1> 
                 <h2 class="mt-4">Purpose of this Privacy Notice</h2> <br>
-                <p>This privacy notice aims to give you information on how Click R&D  collects and processes your personal data 
+                <p>This privacy notice aims to give you information on how Phoenix R&D  collects and processes your personal data 
                 through your use of this website, including any data you may provide through this website or directly to us.</p>
 
                 <p class="mt-4">This website is not intended for children and we do not knowingly collect data relating to children.</p>
@@ -89,17 +89,17 @@
 
                 <h2 class="mt-4">Controller</h2>
                
-             <p class="mt-4">ClickB R&D  Limited is the data controller in relation to our website and is responsible for your personal data (collectively referred to as Click R&D , “we”, “us” or “our” in this privacy notice).</p>
+             <p class="mt-4">Phoenix R&D  Limited is the data controller in relation to our website and is responsible for your personal data (collectively referred to as Phoenix R&D , “we”, “us” or “our” in this privacy notice).</p>
              <p class="mt-4">We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the data privacy manager here.</p>
                </div>
 
                  <div class="container">
                  <h2 class="mt-4">Contact details</h2>
                  <p class="mt-4">Our full details are:</p>
-                 <p class="mt-4">Full name of legal entity: Click R&D  Limited (company number 10580082)</p>
+                 <p class="mt-4">Full name of legal entity: Phoenix R&D  Limited (company number 10580082)</p>
                  <p class="mt-4">Person responsible for data protection: the data privacy manager</p>
                  <p class="mt-4">Email address: you can contact the data privacy manager here.</p>
-                 <p class="mt-4">Postal address: Click R&D 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ.</p>
+                 <p class="mt-4">Postal address: Phoenix R&D 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ.</p>
                  <p class="mt-4">Telephone number:</p>
                  <p class="mt-4">New Clients Department – 0208 1257590</p>
                  <p class="mt-4">Existing Clients Queries Department – 0208 1257591</p>
@@ -237,7 +237,7 @@
 
                  <div class="container">
                  <h1 class="mt-4">6.International transfers</h1>
-                 <p class="mt-4">We may share your personal data with Click R&D ’s parent company, Alliant Global Corporation and other members of our corporate group who are based in the US. This will involve transferring your data outside the European Economic Area (EEA).</p>
+                 <p class="mt-4">We may share your personal data with Phoenix R&D ’s parent company, Alliant Global Corporation and other members of our corporate group who are based in the US. This will involve transferring your data outside the European Economic Area (EEA).</p>
                    <p class="mt-4">Many of our external third-party service providers (for example Amazon Web Services and GoogleApps) are based outside the European Economic Area (EEA) so their processing of your personal data will involve a transfer of data outside the EEA.</p>
                    <p class="mt-4">Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:</p>
                    <ul class="mt-4">

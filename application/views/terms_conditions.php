@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>Click R&D: Terms and Conditions</title>
+        <title>Phoenix R&D: Terms and Conditions</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
         <!-- Optional theme -->
@@ -63,16 +63,16 @@
 
         <div class="container mt-4">
         <h2>Terms Use</h2>
-        <p class="mt-4">Click R&D, is an analysis and marketing firm. Click R&D in Partnership with More Group (accounting) Limited.  Click R&D  (“we”), are committed to protecting and respecting your privacy.</p>
+        <p class="mt-4">Phoenix R&D, is an analysis and marketing firm. Phoenix R&D in Partnership with More Group (accounting) Limited.  Phoenix R&D  (“we”), are committed to protecting and respecting your privacy.</p>
        <h2 class="mt-4">What is in these terms?</h2>
-       <p class="mt-4">These terms tell you the rules for using our website <a href="https://clickrnd.co.uk "> https://clickrnd.co.uk </a> (our site).
+       <p class="mt-4">These terms tell you the rules for using our website <a href="https://clickrnd.co.uk "> https://phoenixrnd.co.uk </a> (our site).
           </p>
 
           <h2 class="mt-4">Who we are and how to contact us</h2>
-          <p class="mt-4">https://clickrnd.co.uk  is a site operated by Click R&D Limited (“We”). We are registered in England and Wales under company number 13203308 and have our registered office at Click R&D Ltd 71-75 Shelton Street, London, Greater London, WC2H 9JQ</p>
-          <p class="mt-4">hhtp://moregroup.com is a site operated by More Group (Accounting) Limited are a registered company in England and Wales under company number 08282882 and have our registered office at 65 Compton Street, London, EC1V 0BN</p>
+          <p class="mt-4">https://phoenixrnd.co.uk  is a site operated by Phoenix R&D Limited (“We”). We are registered in England and Wales under company number: 15270538 and have our registered office at Phoenix R&D Ltd Flat 86 Ember Court, Emlyn Gardens, London, England, W12 9UE</p>
+          <p class="mt-4">https://meetenso.co.uk/ is a site operated by ENSO is a registered company in England under company number: 11179376 and have our registered office at 189c, Mauldeth Road, Manchester, England, M19 1BA</p>
            <p class="mt-4">We are a limited Company. We are supervised by the Chartered Institute of Taxation for the purposes of Anti-Money Laundering.</p>
-           <p class="mt-4">To contact us, please email info@clickrnd.co.uk  or mail@moregroup.com</p>
+           <p class="mt-4">To contact us, please email info@pheonixrnd.co.uk </p>
            <p class="mt-4">Telephone:</p>
            <p class="mt-4">New Clients Department – 0208 1257590</p>
            <p class="mt-4">Existing Clients Queries Department – 0208 1257591</p>
@@ -94,7 +94,7 @@
 
 You may print off one copy, and may download extracts, of any page(s) from our site for your personal use and you may draw the attention of others within your organization to content posted on our site.</p>
 <p class="mt-4">You must not modify the paper or digital copies of any materials you have printed off or downloaded in any way, and you must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text.</p>
-<p class="mt-4">Our status as the authors of content on our site must always be acknowledged by ensuring that the words “Copyright ©Click R&D Limited” “Copy Right © More Group 2019” are clearly visible.</p>
+<p class="mt-4">Our status as the authors of content on our site must always be acknowledged by ensuring that the words “Copyright ©Phoenix R&D Limited” “Copy Right © More Group 2019” are clearly visible.</p>
 <p class="mt-4">You must not use any part of the content on our site for commercial purposes without obtaining a licence to do so from us.</p>
 <p class="mt-4">If you print off, copy or download any part of our site in breach of these terms of use, your right to use our site will cease immediately and you must, at our option, return or destroy any copies of the materials you have made.</p>
 
@@ -135,7 +135,7 @@ You may print off one copy, and may download extracts, of any page(s) from our s
             <p class="mt-4">You are responsible for configuring your information technology, computer programmes and platform to access our site. You should use your own virus protection software.</p>
             <p class="mt-4">You must not misuse our site by knowingly introducing viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful. You must not attempt to gain unauthorised access to our site, the server on which our site is stored or any server, computer or database connected to our site. You must not attack our site via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use our site will cease immediately.</p>
             <h2 class="mt-4">Rules about linking to our site</h2>
-            <p class="mt-4">We are very happy for you to link to any of our pages whether directly or via backlinks or to make link less mentions provided any such link or mention is fair and legal and does not damage our reputation or take advantage of it. We would also ask that any such links or mentions use the correct spelling of our name i.e. Click R&D and More Group (Accounting) Limited (no space).</p>
+            <p class="mt-4">We are very happy for you to link to any of our pages whether directly or via backlinks or to make link less mentions provided any such link or mention is fair and legal and does not damage our reputation or take advantage of it. We would also ask that any such links or mentions use the correct spelling of our name i.e. Phoenix R&D and More Group (Accounting) Limited (no space).</p>
             <p class="mt-4">You must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part where none exists.</p>
             <p class="mt-4">You must not establish a link to our site in any website that is not owned by you.</p>
             <p class="mt-4">Our site must not be framed on any other site.</p>
@@ -144,7 +144,7 @@ You may print off one copy, and may download extracts, of any page(s) from our s
              <p class="mt-4">If you are a consumer, please note that these terms of use, their subject matter and their formation, are governed by English law. You and we both agree that the courts of England and Wales will have exclusive jurisdiction except that if you are a resident of Northern Ireland you may also bring proceedings in Northern Ireland, and if you are resident of Scotland, you may also bring proceedings in Scotland.</p>
              <p class="mt-4">If you are a business, these terms of use, their subject matter and their formation (and any non-contractual disputes or claims) are governed by English law. We both agree to the exclusive jurisdiction of the courts of England and Wales.</p>
              <h2 class="mt-4">Our trademarks are registered</h2>
-             <p class="mt-4">”Click R&D” is an analysis and marketing firm. Click R&D in Partnership with More Group (Accounting) Limited.  You are not permitted to use it without our approval.</p>
+             <p class="mt-4">”Phoenix R&D” is an analysis and marketing firm. Phoenix R&D in Partnership with More Group (Accounting) Limited.  You are not permitted to use it without our approval.</p>
              <p class="mt-4">More Group (Accounting) Limited is a UK Registered company under company number 08282882.</p>   
               
 

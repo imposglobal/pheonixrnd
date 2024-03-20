@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>Click R&D: Science And Medications</title>
+        <title>Phoenix R&D: Science And Medications</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
         <!-- Optional theme -->
@@ -40,7 +40,7 @@
                         <p class="home-p-left mt-30">The sector of science and medication is a goldmine for R&D tax credits. Many laboratories are trying to advance these sectors and create new processes, which in turn has made the industry of one of the highest spending on R&D per year.</p>
                         <h2 class="snm-heading mt-30 mb-30">What is R&D?</h2>
                         <p class="footer-p-blue">Research and Development is a government scheme put into place to reward Limited Companies who are trying to advance and innovate in the UK. This doesn’t have to be as drastic as creating a Nobel Peace Prize-winning project however, as long as you have to create the process for ‘researching’ or ‘developing’ a project, it counts as R&D. It could even be as simple as creating your own Petri dishes, for example. (However, this wouldn’t warrant a large claim.)</p>
-                        <p class="footer-p-blue mt-30">Once you have an idea of what you can claim on; we look into how much the project cost you, how much time was spent, how many employees were involved, as well as other factors to put together a claim on your account. At Click R&D, we have specialists who are working solely on R&D – meaning you are going to get the most money back for your claim possible!</p>
+                        <p class="footer-p-blue mt-30">Once you have an idea of what you can claim on; we look into how much the project cost you, how much time was spent, how many employees were involved, as well as other factors to put together a claim on your account. At Phoenix R&D, we have specialists who are working solely on R&D – meaning you are going to get the most money back for your claim possible!</p>
                     </div>
                     <div class="col-lg-5 col-md-5 col-sm-12">
                         <div class="image-stack width-80" id="science-stackimg1">

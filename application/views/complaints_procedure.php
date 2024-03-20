@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>Click R&D: Compliants Procedure</title>
+        <title>Phoenix R&D: Compliants Procedure</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
         <!-- Optional theme -->
@@ -71,37 +71,37 @@
           
 
                <div class="container mt-4">
-                <h2 class="mt-4">1.0 Click R&D Complaints Procedure</h2>
-                <p class="mt-4">Click R&D and More Group (Accounting) Ltd are committed to giving you the highest standards of service and customer care. If a client or service provider does not think we have succeeded in achieving this we encourage their feedback to enable us to rectify any concerns and improves upon services.</p>
+                <h2 class="mt-4">1.0 Phoenix R&D Complaints Procedure</h2>
+                <p class="mt-4">Phoenix R&D and More Group (Accounting) Ltd are committed to giving you the highest standards of service and customer care. If a client or service provider does not think we have succeeded in achieving this we encourage their feedback to enable us to rectify any concerns and improves upon services.</p>
                 <p class="mt-4">A complaint is considered to be treated as a complaint when an expression of dissatisfaction is expressed in writing by the client or on behalf of the client.</p>
                   <h2 class="mt-4">2.0 Procedure</h2>
                   <p class="mt-4">2.1 Complaints can initially be expressed verbally, however, a formal complaint will need to be confirmed in writing by the complainant.</p>
                   <p class="mt-4">2.2 Complaints need to be directed to our Complaints Manager Shamila Kauser and can be either e-mailed or posted to the following:</p>
-                  <p class="mt-4">2.3 Click R&D</p>
-                  <p class="mt-4">71-75 Shelton Street, <br>
-                               Covent Garden, <br>
-                           London, WC2H 9JQ.
+                  <p class="mt-4">2.3 Phoenix R&D</p>
+                  <p class="mt-4">Flat 86 Ember Court, <br>    
+                                 Emlyn Gardens, <br>
+                                 London, England, W12 9UE
                             </p>
-                            <p class="mt-4">2.4 complaints@clickrnd.co.uk and mail@moregroup.com</p>
-                            <p class="mt-4">2.5 Click R&D and More Group (Accounting) Ltd staff are aware of the complaints procedure and will guide complainants through the formal review process should that be appropriate.</p>
+                            <p class="mt-4">2.4 complaints@phoenixrnd.co.uk and mail@moregroup.com</p>
+                            <p class="mt-4">2.5 Phoenix R&D and More Group (Accounting) Ltd staff are aware of the complaints procedure and will guide complainants through the formal review process should that be appropriate.</p>
                             <p class="mt-4">2.6 Complainants are encouraged to provide details about themselves so that we can directly attempt to redress the potential problem, however, anonymous complainants will be considered with equal value and will be used to make future service improvements where required.</p>
-                            <p class="mt-4">2.7 Complainants are also encouraged to advise Click R&D and More Group (Accounting) Ltd in regards to what action they would like us to take to resolve their complaint.</p>
-                            <p class="mt-4">2.8 Upon receipt of the formal complaint, Click R&D and More Group (Accounting) Ltd will issue an acknowledgment within a timescale of 5 working days.</p>
-                            <p class="mt-4">2.9 Click R&D and More Group (Accounting) Ltd aims to start an investigation on the complaint upon receipt and aims to respond to the complainant within a timescale of 4 weeks. If Click R&D and More Group (Accounting) Ltd are unable to meet this timescale and update will still be sent to the complainant to ensure they are aware of the complaints progress.</p>
-                            <p class="mt-4">2.10 Click R&D and More Group Ltd aims to send a final response within a timescale of 8 weeks of receiving the formal complaint. If Click R&D and More Group (Accounting) Ltd are unable to meet this timescale and update will still be sent to the complainant to ensure they are aware of the complaints progress.</p>
-                            <p class="mt-4">2.11 If Click R&D and More Group (Accounting) Ltd take more than 8 weeks after receiving the complaint to reply to the complainant, or the complainant does not think the Click R&D and More Group (Accounting) Ltd outcome has resolved the complaint, Click R&D and More Group (Accounting) Ltd advises the complainant to take further action with the Financial Ombudsman Service (FOS) and provides details of how to do so.</p>
-                            <p class="mt-4">2.12 Click R&D and More Group (Accounting) Ltd records all complaints on the client’s file where possible and also within a central database. Actions and outcomes of these complaints are also recorded.</p>
-                            <p class="mt-4">2.13 Any complaints to Click R&D and More Group (Accounting) Ltd will be reviewed and will be used to make future service improvements where required.</p>
-                            <p class="mt-4">2.14 Click R&D and More Group (Accounting) Ltd will use GABRIEL (Gathering Better Regulatory Information Electronically) as required by the Financial Conduct Authority (FCA) to report on volumes of complaints.</p>
-                            <p class="mt-4">2.15 Should complaints to Click R&D and More Group (Accounting) Ltd highlight any particular areas of concern/improvement, necessary remedial action will be taken.</p>
+                            <p class="mt-4">2.7 Complainants are also encouraged to advise Phoenix R&D and More Group (Accounting) Ltd in regards to what action they would like us to take to resolve their complaint.</p>
+                            <p class="mt-4">2.8 Upon receipt of the formal complaint, Phoenix R&D and More Group (Accounting) Ltd will issue an acknowledgment within a timescale of 5 working days.</p>
+                            <p class="mt-4">2.9 Phoenix R&D and More Group (Accounting) Ltd aims to start an investigation on the complaint upon receipt and aims to respond to the complainant within a timescale of 4 weeks. If Phoenix R&D and More Group (Accounting) Ltd are unable to meet this timescale and update will still be sent to the complainant to ensure they are aware of the complaints progress.</p>
+                            <p class="mt-4">2.10 Phoenix R&D and More Group Ltd aims to send a final response within a timescale of 8 weeks of receiving the formal complaint. If Phoenix R&D and More Group (Accounting) Ltd are unable to meet this timescale and update will still be sent to the complainant to ensure they are aware of the complaints progress.</p>
+                            <p class="mt-4">2.11 If Phoenix R&D and More Group (Accounting) Ltd take more than 8 weeks after receiving the complaint to reply to the complainant, or the complainant does not think the Phoenix R&D and More Group (Accounting) Ltd outcome has resolved the complaint, Phoenix R&D and More Group (Accounting) Ltd advises the complainant to take further action with the Financial Ombudsman Service (FOS) and provides details of how to do so.</p>
+                            <p class="mt-4">2.12 Phoenix R&D and More Group (Accounting) Ltd records all complaints on the client’s file where possible and also within a central database. Actions and outcomes of these complaints are also recorded.</p>
+                            <p class="mt-4">2.13 Any complaints to Phoenix R&D and More Group (Accounting) Ltd will be reviewed and will be used to make future service improvements where required.</p>
+                            <p class="mt-4">2.14 Phoenix R&D and More Group (Accounting) Ltd will use GABRIEL (Gathering Better Regulatory Information Electronically) as required by the Financial Conduct Authority (FCA) to report on volumes of complaints.</p>
+                            <p class="mt-4">2.15 Should complaints to Phoenix R&D and More Group (Accounting) Ltd highlight any particular areas of concern/improvement, necessary remedial action will be taken.</p>
                             <h2 class="mt-4">3.0 Compliments</h2>
                             <p class="mt-4">3.1 Compliments can initially be expressed verbally</p>
                             <p class="mt-4">3.2 Compliments can be sent directly to the adviser via the contact details provided</p>
                             <p class="mt-4">3.3 Compliments can also be directed to:</p>
-                            <p class="mt-4">Click R&D
-                                 71-75 Shelton Street,<br>
-                                   Covent Garden, <br>
-                                London, WC2H 9JQ.</p>
+                            <p class="mt-4">Phoenix R&D
+                            Flat 86 Ember Court,<br>    
+                            Emlyn Gardens,<br>
+                            London, England, W12 9UE</p>
                     </div>
                     </section>
                     

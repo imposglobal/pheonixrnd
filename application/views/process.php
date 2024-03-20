@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>Click R&D: The Process</title>
+        <title>Phoenix R&D: The Process</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
         <!-- Optional theme -->
@@ -212,15 +212,15 @@
                     <div class="col-lg-5 col-md-6 col-sm-12">
                         <h2 class="contact-heading-1 mt-30">Let's Talk</h2>
                         <p class="footer-p-blue mt-30">
-                            Click R&D have developed a robust and rigorous framework for R&D tax credits applications. Click R&Ds framework is adaptable to your business needs irrespective of your company size, sector or turnover. The core elements of the framework is adapted and updated as per HMRC R&D tax credits regulations.
+                            Phoenix R&D have developed a robust and rigorous framework for R&D tax credits applications. Phoenix R&Ds framework is adaptable to your business needs irrespective of your company size, sector or turnover. The core elements of the framework is adapted and updated as per HMRC R&D tax credits regulations.
                         </p>
                     </div>
                     <div class="col-lg-5 col-md-6 col-lg-offset-1 col-sm-12">
                         <p class="footer-p-blue mt-90">
-                            Click R&D is committed through its  technical expertise and passion to maximise benefits for your R&D projects with minimal risks.
+                            Phoenix R&D is committed through its  technical expertise and passion to maximise benefits for your R&D projects with minimal risks.
                         </p>
                         <p class="footer-p-blue">
-                            Once you are onboard, your account manager will create a robust and fully maximised R&D tax credit claim in less than 6 weeks, that will be ready for submission to HMRC. Click R&D’s framework has a track record of 100% success rate
+                            Once you are onboard, your account manager will create a robust and fully maximised R&D tax credit claim in less than 6 weeks, that will be ready for submission to HMRC. Phoenix R&D’s framework has a track record of 100% success rate
                         </p>
                     </div>
                 </div>
@@ -261,7 +261,7 @@
                 </div>
                 <div id="process2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
                   <div class="panel-body">
-                    <p class="footer-p-blue">Refining the information process is designed to maximise your claim and analyse the overall project expenditure along with the team contribution, by creating a winning combination for your R&D tax credits claim. • The purpose of this core element of Click R&D framework is to identify your R&D tax credits qualifying expenditure; as it is one of the core elements of the overall claim, this is crafted and analysed with great care by experts and technical members of Click R&D team • The process initially requires exploration and we will be required to contact the right resource at your end with our experts to establish the opportunities by creating a winning combination towards your R&D tax credits claim • We will also engage your accountants or financial teams while exploring these opportunities by truly maximising the potential of your R&D tax credits claim</p>
+                    <p class="footer-p-blue">Refining the information process is designed to maximise your claim and analyse the overall project expenditure along with the team contribution, by creating a winning combination for your R&D tax credits claim. • The purpose of this core element of Phoenix R&D framework is to identify your R&D tax credits qualifying expenditure; as it is one of the core elements of the overall claim, this is crafted and analysed with great care by experts and technical members of Phoenix R&D team • The process initially requires exploration and we will be required to contact the right resource at your end with our experts to establish the opportunities by creating a winning combination towards your R&D tax credits claim • We will also engage your accountants or financial teams while exploring these opportunities by truly maximising the potential of your R&D tax credits claim</p>
                   </div>
                 </div>
               </div>
@@ -275,7 +275,7 @@
                 </div>
                 <div id="process3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
                   <div class="panel-body">
-                    <p class="footer-p-blue">The vetting process in Click R&D framework is designed to assure quality, by analysing your claim from every angle giving you peace of mind and limiting any associated risks with your R&D tax credits claim.  We believe that every business is different in terms of process, hence why bespoke attention is required to understand R&D activities.  We will build a customised report with project description, team overview and their contribution to R&D activities to make it easy for HMRC to approve your claim.  We understand that every business is different. A quality assurance specialist will create a bespoke methodology unique to your business, your activities and your records. We will create a report for you to review. It will include a technical narrative, a summary of the costs you have incurred and how we have arrived at your total benefit figure. You are kept informed through-out our preparation of the report and given opportunities to review and critically analyse before submission to HMRC, the final draft of the project is also reviewed and analysed by an expert on our side by assuring quality for your peace of mind.</p>
+                    <p class="footer-p-blue">The vetting process in Phoenix R&D framework is designed to assure quality, by analysing your claim from every angle giving you peace of mind and limiting any associated risks with your R&D tax credits claim.  We believe that every business is different in terms of process, hence why bespoke attention is required to understand R&D activities.  We will build a customised report with project description, team overview and their contribution to R&D activities to make it easy for HMRC to approve your claim.  We understand that every business is different. A quality assurance specialist will create a bespoke methodology unique to your business, your activities and your records. We will create a report for you to review. It will include a technical narrative, a summary of the costs you have incurred and how we have arrived at your total benefit figure. You are kept informed through-out our preparation of the report and given opportunities to review and critically analyse before submission to HMRC, the final draft of the project is also reviewed and analysed by an expert on our side by assuring quality for your peace of mind.</p>
                   </div>
                 </div>
               </div>

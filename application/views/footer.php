@@ -10,9 +10,9 @@
 
                                 <h1 class="title-widget">ABOUT US</h1>
 
-                                <p class="footer-p-wht">Click R&D Is An Independent Analysis And Marketing Firm. Click R&D In Partnership With More Group (Accounting) Limited</p>
+                                <p class="footer-p-wht">Phoenix R&D Ltd Is An Independent Analysis And Marketing Firm. In Partnership With Enso Accountants Limited </p>
                                 <p class="footer-blue-p mt-30">Registration Number:
-                                    13203308 Whose Registered Address Is Hilton Suite 615, 6th Floor, 42-50 Kimpton Road, Luton, England, LU2 0FP.</p>
+                                15270538 Whose Registered Address Is Flat 86 Ember Court, Emlyn Gardens, London, England, W12 9UE.</p>
 
                             </li>
 
@@ -36,7 +36,7 @@
                                     <p class="footer-p-wht">Friday: 10:00 am - 4:00pm
                                 </p>
                                 <p class="footer-blue-p mt-30">Contact Us On: 0208 0779002</p> 
-                                <p class="footer-blue-p">E-Mail: info@clickrnd.co.uk</p>
+                                <p class="footer-blue-p">E-Mail: info@phoenixrnd.co.uk</p>
                                 
 
                                 <ul class="footerli">
@@ -67,14 +67,14 @@
                                 <h1 class="title-widget">PARTNERSHIP </h1>
 
                                 <div class="mb-20"> 
-                                    <p class="footer-p-wht"><a class="footer-p-blue-a" href="https://www.moregroup.com/" target="_blank">More Group</a> Is An International Accounting Firm specialising In Tax Accounting And Business Incorporation And Trustee Service Whose Registered Office Is At 65 Compton Street, London, EC1V 0BN. Company Registration Number 5503860, Directors: M. Conroy FCCA, ACA, CTA, FFA, FFTA (British) And D.Mould FCCA, FAIA, CMgr, MCMI (British).</p>
+                                    <p class="footer-p-wht"><a class="footer-p-blue-a" href="https://meetenso.co.uk/" target="_blank">ENSO </a> Is An International Accounting Firm Whose Registered Office Is At 189c, Mauldeth Road, Manchester, England, M19 1BA. Company Registration Number : 11179376.</p>
                                     <!--<img class="col-md-12 mb-20" src="<?php echo base_url(); ?>assets/Images/Homepage/more-logo.png" alt="">-->
                                 </div>
 
                                 <div class="social-icons">
 
                                     <ul class="nomargin img-list">
-                                        <li class="img-list-border"><img class="img-responsive img-list-left" src="<?php echo base_url(); ?>assets/Images/Homepage/more-logo.png" alt=""></li>
+                                        <li class="img-list-border"><img class="img-responsive img-list-left" src="<?php echo base_url(); ?>assets/Images/Homepage/enso-logo.png" alt=""></li>
                                         <li><img class="img-responsive img-list-right" src="<?php echo base_url(); ?>assets/Images/Homepage/footer-logos.png" alt=""></li>
 
                                     </ul>
@@ -95,7 +95,9 @@
 
                         <div class="copyright">
 
-                            <p class="upper">All Rights Reserved @<a target="_blank" href="http://clickrnd.imposglobal.com/"> click r&d.</a></p>
+                            <!-- <p class="upper">All Rights Reserved @<a target="_blank" href="http://clickrnd.imposglobal.com/"> Phoenix R&D.</a></p> -->
+                            <p class="upper"><?php $current_year = date("Y"); echo "Copyright © " . $current_year . " All rights reserved @"; ?><a target="_blank" href="http://clickrnd.imposglobal.com/"> Phoenix R&D Ltd.</a></p>
+
 
                         </div>
 

@@ -1691,7 +1691,8 @@ margin-left: 30%;
     /*padding: 20px 40px 30px 40px;*/
 }
 .snm-stack_item-top-1_1 >img{
-    width:500px;
+    /* width:500px;  */
+    width:450px;
 }
 .snm-stack__item--top_1 {
     grid-row: 1;

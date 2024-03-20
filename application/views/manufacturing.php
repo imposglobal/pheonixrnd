@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>Click R&D: Manufacturing</title>
+        <title>Phoenix R&D: Manufacturing</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
         <!-- Optional theme -->
@@ -39,7 +39,7 @@
                         <h2 class="contact-heading-2">Manufacturing</h2>
                         <p class="home-p-left mt-30" id="manufacturing-para1">The R&D Tax Relief incentive is designed to encourage innovation and increase spending on Research & Development activities for companies operating in the UK. It’s one of the government’s top incentives for encouraging investment in R&D and allows up to 33.35% of a company’s R&D spend to be recovered as a cash repayment.</p>
                         <h2 class="snm-heading mt-30 mb-30">Why Manufacturing?</h2>
-                        <p class="footer-p-blue">Manufacturing is one of the most important sectors in the UK, contributing 11% of the country’s GVA and employing more than 2.5 million people. Manufacturing is also responsible for 70% of R&D spend in the UK, as the sector constantly strives for further efficiency and innovation. At Click R&D, we can help manufacturers claim R&D tax credits, which can help fund vital research. If you are a manufacturing company, you could benefit from manufacturing R&D tax credits, which can cover:</p>
+                        <p class="footer-p-blue">Manufacturing is one of the most important sectors in the UK, contributing 11% of the country’s GVA and employing more than 2.5 million people. Manufacturing is also responsible for 70% of R&D spend in the UK, as the sector constantly strives for further efficiency and innovation. At Phoenix R&D, we can help manufacturers claim R&D tax credits, which can help fund vital research. If you are a manufacturing company, you could benefit from manufacturing R&D tax credits, which can cover:</p>
                         <ul class="half-list col-lg-12 col-md-12 col-sm-12 padding-0 mt-30">
                                <li class="col-lg-6 col-md-6 col-sm-12 padding-0"><img src="<?php echo base_url(); ?>assets/Images/SNM/right_icon.png" class="col-lg-1 col-md-1 col-sm-1" /><p class="col-lg-11 col-md-11 col-sm-11">Staff costs</p></li>
                                <li class="col-lg-6 col-md-6 padding-0"><img src="<?php echo base_url(); ?>assets/Images/SNM/right_icon.png" class="col-lg-1 col-md-1 col-sm-1" /><p class="col-lg-11 col-md-11 col-sm-11">Software costs</p></li>

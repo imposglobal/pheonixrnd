@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>Click R&D: FAQ</title>
+        <title>Phoenix R&D: FAQ</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
         <!-- Optional theme -->
@@ -335,7 +335,7 @@
     <div class="card">
             <div class="card-header card-head" id="headingfour">
                 <h2 class="mb-0">
-                    <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsefour"><i class="fa fa-plus"></i> Why should I get Click R&D to do my claim?</button>                     
+                    <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsefour"><i class="fa fa-plus"></i> Why should I get Phoenix R&D to do my claim?</button>                     
                 </h2>
             </div>
             <div id="collapsefour" class="collapse" aria-labelledby="headingfour" data-parent="#accordionExample">

@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>Phoenix R&D R&D: About</title>
+        <title>Phoenix R&D: About</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
         <!-- Optional theme -->
@@ -211,7 +211,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-10 col-md-10 col-md-offset-1 col-sm-12" data-aos="fade-right" data-aos-duration="2000" data-aos-delay="500">
                         <h2 class="about-heading-3 mt-90">Expert Team with an 'Extra Mile' Approach</h2>
-                        <p class="about-p-blue">We have a 100% success rate, taking the extra mile approach for our clients. Click R&Ds framework is a proven framework backed by industry and academic experts ensuring maximum benefits for our clients.</p>
+                        <p class="about-p-blue">We have a 100% success rate, taking the extra mile approach for our clients. Phoenix R&Ds framework is a proven framework backed by industry and academic experts ensuring maximum benefits for our clients.</p>
                     </div>
                 </div>
             </div>
@@ -221,11 +221,11 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6 col-sm-12 about-border-block"></div>
                     <div class="col-lg-6 col-md-6 col-sm-12" data-aos="fade-right" data-aos-duration="2000" data-aos-delay="500">
-                        <h2 class="contact-heading-2 mb-30">Why Click R&D?</h2>
-                        <p class="footer-p-blue">Our Click R&D tax credits framework is focused on a proactive approach by developing bespoke and customised strategies for our clients. We have worked with many UK based SMEs by helping with optimum R&D tax credits and assisting our clients with developing their teams with highly skilled resources, providing cutting edge innovations in various sectors.</p>
-                        <p class="footer-p-blue">Our Click R&D process framework is backed with expert knowledge in the R&D tax credits area, assisting our clients with making 100% successful claims with guidance and preparing our clients for existing and future R&D claims. You can rely on us as most of our clients comes from different sectors such as insure-tech, digital media house, clinical and pharmaceutical, accounting firms, transportation, technology houses and manufacturing houses.</p>
-                        <p class="footer-p-blue">We have a 100% success rate, taking the extra mile for our clients. Click R&D framework is a proven framework backed by industry and academic experts ensuring maximum benefits for our clients. We have achieved over £5 million worth of claims for our clients across various sectors.</p>
-                        <p class="footer-p-blue">Click R&D will conduct a completely free initial assessment of your R&D tax credit claim to see whether your business activities constitute research and development spend in your business, ensuring successful submission of your claim. Our fees are a direct percentage of the R&D funds you will receive from your R&D tax credit claim</p>
+                        <h2 class="contact-heading-2 mb-30">Why Phoenix R&D?</h2>
+                        <p class="footer-p-blue">Our Phoenix R&D tax credits framework is focused on a proactive approach by developing bespoke and customised strategies for our clients. We have worked with many UK based SMEs by helping with optimum R&D tax credits and assisting our clients with developing their teams with highly skilled resources, providing cutting edge innovations in various sectors.</p>
+                        <p class="footer-p-blue">Our Phoenix R&D process framework is backed with expert knowledge in the R&D tax credits area, assisting our clients with making 100% successful claims with guidance and preparing our clients for existing and future R&D claims. You can rely on us as most of our clients comes from different sectors such as insure-tech, digital media house, clinical and pharmaceutical, accounting firms, transportation, technology houses and manufacturing houses.</p>
+                        <p class="footer-p-blue">We have a 100% success rate, taking the extra mile for our clients. Phoenix R&D framework is a proven framework backed by industry and academic experts ensuring maximum benefits for our clients. We have achieved over £5 million worth of claims for our clients across various sectors.</p>
+                        <p class="footer-p-blue">Phoenix R&D will conduct a completely free initial assessment of your R&D tax credit claim to see whether your business activities constitute research and development spend in your business, ensuring successful submission of your claim. Our fees are a direct percentage of the R&D funds you will receive from your R&D tax credit claim</p>
                         <p class="footer-p-blue">Our team of technical staff including industry, academic and scientific staff and financial experts will go the extra mile by achieving a successful claim for your business</p>
                     </div>
                 </div>
