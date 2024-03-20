@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>Click R&D: Home</title>
+        <title>Phoenix R&D: Home</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
         <!-- Optional theme -->
@@ -167,7 +167,6 @@
         </header>
         
         
-        
         <section id="home" class="home-1">
             <div class="container">
                 <div class="row align-items-center">
@@ -176,7 +175,7 @@
                         <h2 class="home-heading mt-30">R&D <span>Tax Credits</span></h2>
                         <h2 class="home-heading mb-20">Experts</h2>
                         <p class="section-1-p mb-20" id="home-first-section-p">
-                            We have a 100% success rate, taking the extra mile approach for our clients. Click R&D framework is a proven
+                            We have a  100% success rate, taking the extra mile approach for our clients. Phoenix R&D framework is a proven
                             framework backed by industry and academic experts ensuring maximum benefits for our clients.
                         </p>
                     </div>
@@ -377,7 +376,7 @@
                             </div>
                             <div class="col-lg-4 col-md-12 mt-mob-20">
                                 <h1 class="section-h-6">Vetting process</h1>
-                                <p class="section-p-6">The vetting process in Click R&D framework is designed to assure quality, by analysing your claim from every angle giving you peace of mind and limiting any associated risks with your R&D tax credits claim.</p>
+                                <p class="section-p-6">The vetting process in Phoenix R&D framework is designed to assure quality, by analysing your claim from every angle giving you peace of mind and limiting any associated risks with your R&D tax credits claim.</p>
                             </div>
                         </div>
                         <div class="col-lg-12 col-md-12 mt-5">
