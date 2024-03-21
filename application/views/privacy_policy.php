@@ -103,7 +103,7 @@
                  <p class="mt-4">Telephone number:</p>
                  <p class="mt-4">New Clients Department – 0208 1257590</p>
                  <p class="mt-4">Existing Clients Queries Department – 0208 1257591</p>
-                 <p class="mt-4">Enso: 0203 481 6709</p>
+                 <p class="mt-4">Enso Accountants: 0203 481 6709</p>
                  <p class="mt-4">You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.</p>
                  <p class="mt-4">Changes to the Privacy Notice and your duty to inform us of changes</p> 
                  <p class="mt-4">This version was last updated on 10 June 2020 and historic versions can be obtained by contacting us.</p>
