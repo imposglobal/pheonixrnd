@@ -82,7 +82,7 @@
                                  Emlyn Gardens, <br>
                                  London, England, W12 9UE
                             </p>
-                            <p class="mt-4">2.4 complaints@phoenixrnd.co.uk and mail@moregroup.com</p>
+                            <p class="mt-4">2.4 complaints@phoenixrnd.co.uk </p>
                             <p class="mt-4">2.5 Phoenix R&D and More Group (Accounting) Ltd staff are aware of the complaints procedure and will guide complainants through the formal review process should that be appropriate.</p>
                             <p class="mt-4">2.6 Complainants are encouraged to provide details about themselves so that we can directly attempt to redress the potential problem, however, anonymous complainants will be considered with equal value and will be used to make future service improvements where required.</p>
                             <p class="mt-4">2.7 Complainants are also encouraged to advise Phoenix R&D and More Group (Accounting) Ltd in regards to what action they would like us to take to resolve their complaint.</p>

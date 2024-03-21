@@ -10,7 +10,7 @@
 
                                 <h1 class="title-widget">ABOUT US</h1>
 
-                                <p class="footer-p-wht">Phoenix R&D Ltd Is An Independent Analysis And Marketing Firm. In Partnership With Enso Accountants Limited </p>
+                                <p class="footer-p-wht">Phoenix R&D Ltd Is an independent analysis and marketing firm. In partnership with Enso Accountants Limited </p>
                                 <p class="footer-blue-p mt-30">Registration Number:
                                 15270538 Whose Registered Address Is Flat 86 Ember Court, Emlyn Gardens, London, England, W12 9UE.</p>
 
@@ -67,7 +67,7 @@
                                 <h1 class="title-widget">PARTNERSHIP </h1>
 
                                 <div class="mb-20"> 
-                                    <p class="footer-p-wht"><a class="footer-p-blue-a" href="https://meetenso.co.uk/" target="_blank">ENSO </a> Is An International Accounting Firm Whose Registered Office Is At 189c, Mauldeth Road, Manchester, England, M19 1BA. Company Registration Number : 11179376.</p>
+                                    <p class="footer-p-wht"><a class="footer-p-blue-a" href="https://meetenso.co.uk/" target="_blank">ENSO </a> Is an international accounting firm whose registered office is at 189c, Mauldeth Road, Manchester, England, M19 1BA. <br>Company Registration Number : 11179376.</p>
                                     <!--<img class="col-md-12 mb-20" src="<?php echo base_url(); ?>assets/Images/Homepage/more-logo.png" alt="">-->
                                 </div>
 
