@@ -315,7 +315,7 @@
                                 <!--<h2>Who is eligible</h2>-->
                                 <p>
                                     Businesses that are eligible for R&D tax credits. To qualify for R&D tax incentives, you must: be a Registered company in the UK, have conducted qualifying R&D activities and have invested or spent money on R&D activities.
-                                    Who qualifies for R&D tax credits? R&D is not restricted to any particular sector. It occurs in everything from bread making to engineering, chemical industries, to construction or digital development. To see if your business qualifies for R&D tax credits Contact us at info@clickrnd.co.uk  for a free no obligation strategy session.
+                                    Who qualifies for R&D tax credits? R&D is not restricted to any particular sector. It occurs in everything from bread making to engineering, chemical industries, to construction or digital development. To see if your business qualifies for R&D tax credits Contact us at info@phoenixrnd.co.uk  for a free no obligation strategy session.
                                 </p>
                             </div>
                         </div>
