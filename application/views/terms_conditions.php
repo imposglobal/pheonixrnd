@@ -72,7 +72,7 @@
           <p class="mt-4">https://phoenixrnd.co.uk  is a site operated by Phoenix R&D Limited (“We”). We are registered in England and Wales under company number: 15270538 and have our registered office at Phoenix R&D Ltd Flat 86 Ember Court, Emlyn Gardens, London, England, W12 9UE</p>
           <p class="mt-4">https://meetenso.co.uk/ is a site operated by ENSO is a registered company in England under company number: 11179376 and have our registered office at 189c, Mauldeth Road, Manchester, England, M19 1BA</p>
            <p class="mt-4">We are a limited Company. We are supervised by the Chartered Institute of Taxation for the purposes of Anti-Money Laundering.</p>
-           <p class="mt-4">To contact us, please email info@pheonixrnd.co.uk </p>
+           <p class="mt-4">To contact us, please email info@phoenixrnd.co.uk </p>
            <p class="mt-4">Telephone:</p>
            <p class="mt-4">New Clients Department – 0208 1257590</p>
            <p class="mt-4">Existing Clients Queries Department – 0208 1257591</p>
