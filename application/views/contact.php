@@ -190,13 +190,13 @@
                         <h2 class="contact-heading-1 mt-30 mb-60">Let's Talk</h2>
                         <img src="<?php echo base_url(); ?>assets/Images/Contact/contact_icon_1.png" alt="" class="img-responsive contact-img-1 mlp-35" />
                         <p class="footer-p-blue" id="footer-p-blue">For further enquiries please email us on</p>
-                        <p class="footer-p-wht" id="footer-p-wht">info@clickrnd.co.uk,</p>
+                        <p class="footer-p-wht" id="footer-p-wht">info@phoenixrnd.co.uk,</p>
                         <p class="footer-p-blue" id="footer-p-blue">alternatively you may call us on</p>
                         <img src="<?php echo base_url(); ?>assets/Images/Contact/contact_icon_2.png" alt="" class="img-responsive mlp-35" />
                         <p class="footer-p-blue" id="footer-p-blue">Customer Care Number -0208 0779002 </p>
                       
                         <img src="<?php echo base_url(); ?>assets/Images/Contact/contact_icon_3.png" alt="" class="img-responsive mlp-35" />
-                        <p class="span-text"><span class="footer-p-wht">More Group:</span><span class="footer-p-blue"> 0203 481 6709</span></p>
+                        <p class="span-text"><span class="footer-p-wht">Enso :</span><span class="footer-p-blue"> 0203 481 6709</span></p>
                     </div>
                     <div class="col-lg-7 col-md-7 col-sm-12 text-lg-left text-center" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="1500">
                         
