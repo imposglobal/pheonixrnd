@@ -2,6 +2,10 @@ body, html { overflow-x:hidden; }
 /*=======================================================Mobile===========================================*/
 @media only screen and (max-width: 480px) {
 /*===========================Navbar=======================    */
+.navbar .navbar-brand img {
+    max-width: 140px;
+    margin-left: -46px;
+}
 .ul-padding {
     padding-left: 0;
 }
