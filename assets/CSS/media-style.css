@@ -2,6 +2,10 @@ body, html { overflow-x:hidden; }
 /*=======================================================Mobile===========================================*/
 @media only screen and (max-width: 480px) {
 /*===========================Navbar=======================    */
+header#site-header {
+    padding: 0px !important;
+    display: flex;
+}
 .ul-padding {
     padding-left: 0;
 }
