@@ -17,6 +17,9 @@ body, html { overflow-x:hidden; }
     display: flex;
     justify-content: flex-start;
 }
+.navbar{
+	flex-wrap:nowrap;
+}
 .navbar-toggler {
     margin-left: 42%;
 }
