@@ -35,7 +35,8 @@
                                     <p class="footer-p-wht">10:00 am - 6:00pm</p>
                                     <p class="footer-p-wht">Friday: 10:00 am - 4:00pm
                                 </p>
-                                <p class="footer-blue-p mt-30">Contact Us On: 0208 0779002</p> 
+                                <p class="footer-blue-p mt-30">Contact Us On: 07719 087869
+</p> 
                                 <p class="footer-blue-p">E-Mail: info@phoenixrnd.co.uk</p>
                                 
 

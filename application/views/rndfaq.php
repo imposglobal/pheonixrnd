@@ -194,7 +194,8 @@
                               
                                  <ul class="list-inline">
                                     <li ><i class="material-icons" style="font-size:12px;color:#12b6fc;font-weight: 1000;">&#xe0b0;</i>
-                                    <span style="font-size:17px;color:#12c6fc; font-weight: 500;">     0208 0779002 </span></li>
+                                    <span style="font-size:17px;color:#12c6fc; font-weight: 500;">     07719 087869
+ </span></li>
                                   </ul>
                             
                             </a>
@@ -210,7 +211,8 @@
                     <div class="col-lg-6 col-md-6 col-sm-12"></div>
                     <div class="col-lg-6 col-md-6 col-sm-12" data-aos="fade-right" data-aos-duration="2000" data-aos-delay="500">
                         <h2 class="contact-heading-2 mb-30" id="faq-head">R&D Tax Credits FAQs</h2>
-                        <p class="home-p-left mb-30">Please see the Frequently Asked Questions about R&D grants, although we have tried to answer all possible questions which may arise, please call us on 0208 1257590 if you have any other queries!</p>
+                        <p class="home-p-left mb-30">Please see the Frequently Asked Questions about R&D grants, although we have tried to answer all possible questions which may arise, please call us on07719 087869
+ if you have any other queries!</p>
                     </div>
                 </div>
             </div>

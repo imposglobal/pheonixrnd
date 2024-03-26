@@ -172,7 +172,8 @@
                               
                                  <ul class="list-inline">
                                     <li ><i class="material-icons" style="font-size:12px;color:#12b6fc;font-weight: 1000;">&#xe0b0;</i>
-                                    <span style="font-size:17px;color:#12c6fc; font-weight: 350;">     0208 0779002 </span></li>
+                                    <span style="font-size:17px;color:#12c6fc; font-weight: 350;">     07719 087869
+ </span></li>
                                   </ul>
                             
                             </a>
@@ -193,7 +194,8 @@
                         <p class="footer-p-wht" id="footer-p-wht">info@phoenixrnd.co.uk,</p>
                         <p class="footer-p-blue" id="footer-p-blue">alternatively you may call us on</p>
                         <img src="<?php echo base_url(); ?>assets/Images/Contact/contact_icon_2.png" alt="" class="img-responsive mlp-35" />
-                        <p class="footer-p-blue" id="footer-p-blue">Customer Care Number -0208 0779002 </p>
+                        <p class="footer-p-blue" id="footer-p-blue">Customer Care Number -07719 087869
+ </p>
                       
                         <img src="<?php echo base_url(); ?>assets/Images/Contact/contact_icon_3.png" alt="" class="img-responsive mlp-35" />
                         <p class="span-text"><span class="footer-p-wht">Enso :</span><span class="footer-p-blue"> 0203 481 6709</span></p>
