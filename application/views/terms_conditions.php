@@ -65,12 +65,12 @@
         <h2>Terms Use</h2>
         <p class="mt-4">Phoenix R&D, is an analysis and marketing firm. Phoenix R&D in Partnership with Enso (accounting) Limited.  Phoenix R&D  (“we”), are committed to protecting and respecting your privacy.</p>
        <h2 class="mt-4">What is in these terms?</h2>
-       <p class="mt-4">These terms tell you the rules for using our website <a href="https://clickrnd.co.uk "> https://phoenixrnd.co.uk </a> (our site).
+       <p class="mt-4">These terms tell you the rules for using our website <a href="https://phoenixrnd.co.uk/ " target="_blank"> https://phoenixrnd.co.uk/ </a> (our site).
           </p>
 
           <h2 class="mt-4">Who we are and how to contact us</h2>
           <p class="mt-4">https://phoenixrnd.co.uk  is a site operated by Phoenix R&D Limited (“We”). We are registered in England and Wales under company number: 15270538 and have our registered office at Phoenix R&D Ltd Flat 86 Ember Court, Emlyn Gardens, London, England, W12 9UE</p>
-          <p class="mt-4">https://meetenso.co.uk/ is a site operated by ENSO is a registered company in England under company number: 11179376 and have our registered office at 189c, Mauldeth Road, Manchester, England, M19 1BA</p>
+          <p class="mt-4"> <a target="_blank" href="https://meetenso.co.uk/">https://meetenso.co.uk/</a> is a site operated by ENSO is a registered company in England under company number: 11179376 and have our registered office at 189c, Mauldeth Road, Manchester, England, M19 1BA</p>
            <p class="mt-4">We are a limited Company. We are supervised by the Chartered Institute of Taxation for the purposes of Anti-Money Laundering.</p>
            <p class="mt-4">To contact us, please email info@phoenixrnd.co.uk </p>
            <p class="mt-4">Telephone:</p>

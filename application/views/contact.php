@@ -191,7 +191,7 @@
                         <h2 class="contact-heading-1 mt-30 mb-60">Let's Talk</h2>
                         <img src="<?php echo base_url(); ?>assets/Images/Contact/contact_icon_1.png" alt="" class="img-responsive contact-img-1 mlp-35" />
                         <p class="footer-p-blue" id="footer-p-blue">For further enquiries please email us on</p>
-                        <p class="footer-p-wht" id="footer-p-wht">info@phoenixrnd.co.uk,</p>
+                        <p class="footer-p-wht" id="footer-p-wht">info@phoenixrnd.co.uk</p>
                         <p class="footer-p-blue" id="footer-p-blue">alternatively you may call us on</p>
                         <img src="<?php echo base_url(); ?>assets/Images/Contact/contact_icon_2.png" alt="" class="img-responsive mlp-35" />
                         <p class="footer-p-blue" id="footer-p-blue">Customer Care Number -07719 087869
