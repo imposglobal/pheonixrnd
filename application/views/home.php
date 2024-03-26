@@ -265,9 +265,9 @@
                             </div>
                             <div class="image-stack__item image-stack_item-top-41">
                                 <p>
-                                    <b>More Group</b> provides a professional, prompt, personalised and highly confidential service to all clients. More Group take pride in their work and have, as professional individuals accepted the challenge and responsibility to work collectively towards a higher goal within the Group and society as a whole.
+                                    <b>ENSO</b> provides a professional, prompt, personalised and highly confidential service to all clients. ENSO take pride in their work and have, as professional individuals accepted the challenge and responsibility to work collectively towards a higher goal within the Group and society as a whole.
                                 </p>
-                                <p class="mt-30">More Groups services are distinguished from other competitors by their pro-activity in providing tax & accounting solutions to clients. More Group also employ state of the art technology in the provision of professional advice and practical support. More Group will apply structured business
+                                <p class="mt-30">ENSO services are distinguished from other competitors by their pro-activity in providing tax & accounting solutions to clients. ENSO also employ state of the art technology in the provision of professional advice and practical support. ENSO will apply structured business
                                     management strategies tailored to each business unit ensuring a high-quality, complaint service to all clients.</p>
                                 <!--<img src="<?php echo base_url(); ?>assets/img/Homepage/h-rectangle.png" alt="">-->
                                 
@@ -277,7 +277,7 @@
                         </div>
                     </div>
                     <div class="col-lg-9 col-md-9 mt--90">
-                    <a href="https://www.moregroup.com" target="_blank" class="btn more-web-btn flt-right">More Group Website</a>
+                    <a href="https://meetenso.co.uk/" target="_blank" class="btn more-web-btn flt-right">ENSO Website</a>
                     </div>
                 </div>
             </div>
